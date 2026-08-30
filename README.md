@@ -3,6 +3,7 @@ Wuthering waves config for your device
 -------------------------
 NOTE:
 - this is a fork of daisuke-19's wuwa configs( i just patched up the very low end config to support version 3.x)
+  
 -ALL HAVE VULCAN AND FRAME GEN
 -------------------------
 
