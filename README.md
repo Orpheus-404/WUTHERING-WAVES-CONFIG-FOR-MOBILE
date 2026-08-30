@@ -1,10 +1,12 @@
 # WUTHERING-WAVES-CONFIG-FOR-MOBILE
 Wuthering waves config for your device 
 -------------------------
-NOTE:
+
+-NOTE
 - this is a fork of daisuke-19's wuwa configs( i just patched up the very low end config to support version 3.x)
+- my version is within the "patch-1" branch
   
--ALL HAVE VULCAN AND FRAME GEN
+-ALL HAVE VULkAN AND FRAME GEN
 -------------------------
 
 FOR VERY LOW END RECOMMENDATION 
